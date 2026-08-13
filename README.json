@@ -1,0 +1,244 @@
+{
+  "items": [
+    {
+      "description": "Want to contribute to the list? Follow the contributing guide and send us a pull request!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SvelteKit Blog App",
+          "description": "A SvelteKit blog app built with SvelteKit and EdgeDB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-11-28T06:26:52Z",
+            "owner": "pro7tech",
+            "repo": "sveltekit-blog-app",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyperpop",
+          "description": "EdgeDB powered Remix application that is deployed using Fly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-03T03:32:00Z",
+            "owner": "geldata",
+            "repo": "remix",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remix Chop Suey Stack",
+          "description": "A Remix application made with EdgeDB, Tailwind & Fly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-24T08:07:55Z",
+            "owner": "jaykaycodes",
+            "repo": "remix-chop-suey-stack",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuanWeb",
+          "description": "A production personal website with Rust (Axum framework) + EdgeDB at the backend, and various tech for frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T15:51:29Z",
+            "owner": "hongquan",
+            "repo": "QuanWeb",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twitter Clone",
+          "description": "A Twitter clone built using Remix, UnoCSS and EdgeDB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-11-06T17:04:54Z",
+            "owner": "pokedotdev",
+            "repo": "twitter-clone",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeDB + NestJS",
+          "description": "A NestJS application that uses EdgeDB and exposes a GraphQL API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-25T08:29:19Z",
+            "owner": "tdolsen",
+            "repo": "edgedb-nestjs-example",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remix K-Hip Hop Stack",
+          "description": "An application built with Remix & EdgeDB and deployed using Netlify.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-09-23T05:45:15Z",
+            "owner": "AceroM",
+            "repo": "khiphop-stack",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeDB TodoMVC",
+          "description": "A classic todo application that is powered by EdgeDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-21T16:59:46Z",
+            "owner": "geldata",
+            "repo": "simpletodo",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remix + EdgeDB",
+          "description": "A simple Remix application that is powered by EdgeDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-04-28T00:44:19Z",
+            "owner": "jacob-ebey",
+            "repo": "remix-edgedb",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeDB NextJS Blog",
+          "description": "A NextJS blog application built with EdgeDB and React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-04-18T22:55:20Z",
+            "owner": "colinhacks",
+            "repo": "edgedb-nextjs-blog",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EdgeDB Dokku Plugin",
+          "description": "A plugin for Dokku that provides EdgeDB related commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-04-04T14:37:18Z",
+            "owner": "Jarrodsz",
+            "repo": "dokku-edgedb",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeDB Lucia-Auth Adapter",
+          "description": "An adapter for Lucia-Auth that utilizes EdgeDB as storage for your authentication and user data.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-10-09T06:39:28Z",
+            "owner": "JitPackJoyride",
+            "repo": "lucia-adapter-edgedb",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeDB Grafana Frontend",
+          "description": "A Grafana frontend plugin allowing you to fetch data from EdgeDB's HTTP endpoint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-11-03T19:32:13Z",
+            "owner": "geldata",
+            "repo": "edgedb-grafana-frontend",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeDB FastAPI Users",
+          "description": "An adapter for FastAPI Users that utilizes EdgeDB as storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T04:04:02Z",
+            "owner": "0xsirsaif",
+            "repo": "fastapiusers-edgedb",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeDB Grafana Backend",
+          "description": "A Grafana backend plugin allowing you to use EdgeDB as a data source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-04T15:43:44Z",
+            "owner": "washed",
+            "repo": "edgedb-grafana-backend",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other languages"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:55:31.602Z",
+    "original_repository": "geldata/awesome-gel",
+    "original_repository_sha": "4e1991f0f892a2644fd9dcbbb6edb3d188524c65",
+    "enhanced_repository": "enhansome/enhansome-gel",
+    "enhanced_repository_description": null,
+    "title": "Awesome gel with stars"
+  }
+}
