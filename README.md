@@ -32,7 +32,7 @@ Want to contribute to the list? Follow the [contributing guide](/CONTRIBUTING.md
 * [SvelteKit Blog App](https://github.com/pro7tech/sveltekit-blog-app) ⚠️ Archived - A SvelteKit blog app built with SvelteKit and EdgeDB.
 * [Hyperpop](https://github.com/edgedb/remix) ⭐ 79 | 🐛 0 | 🌐 JavaScript | 📅 2022-08-03 - EdgeDB powered Remix application that is deployed using Fly.
 * [Remix Chop Suey Stack](https://github.com/jkcorrea/remix-chop-suey-stack) ⭐ 71 | 🐛 0 | 🌐 TypeScript | 📅 2023-01-24 - A Remix application made with EdgeDB, Tailwind & Fly.
-* [QuanWeb](https://github.com/hongquan/QuanWeb) ⭐ 41 | 🐛 0 | 🌐 Rust | 📅 2026-08-13 - A production personal website with Rust (Axum framework) + EdgeDB at the backend, and various tech for frontend.
+* [QuanWeb](https://github.com/hongquan/QuanWeb) ⭐ 41 | 🐛 0 | 🌐 Rust | 📅 2026-08-16 - A production personal website with Rust (Axum framework) + EdgeDB at the backend, and various tech for frontend.
 * [Twitter Clone](https://github.com/pokedotdev/twitter-clone) ⚠️ Archived - A Twitter clone built using Remix, UnoCSS and EdgeDB.
 * [EdgeDB + NestJS](https://github.com/tdolsen/edgedb-nestjs-example) ⭐ 16 | 🐛 1 | 🌐 TypeScript | 📅 2022-10-25 - A NestJS application that uses EdgeDB and exposes a GraphQL API.
 * [Remix K-Hip Hop Stack](https://github.com/AceroM/khiphop-stack) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2022-09-23 - An application built with Remix & EdgeDB and deployed using Netlify.
@@ -89,4 +89,4 @@ Want to contribute to the list? Follow the [contributing guide](/CONTRIBUTING.md
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
