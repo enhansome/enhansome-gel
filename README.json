@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Want to contribute to the list? Follow the contributing guide and send us a pull request!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 610760471,
             "language": "JavaScript",
             "last_commit": "2023-11-28T06:26:52Z",
             "owner": "pro7tech",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 482066451,
             "language": "JavaScript",
             "last_commit": "2022-08-03T03:32:00Z",
             "owner": "geldata",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488832873,
             "language": "TypeScript",
             "last_commit": "2023-01-24T08:07:55Z",
             "owner": "jaykaycodes",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 658010927,
             "language": "Rust",
             "last_commit": "2026-08-16T16:28:24Z",
             "owner": "hongquan",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 516703341,
             "language": "TypeScript",
             "last_commit": "2023-11-06T17:04:54Z",
             "owner": "pokedotdev",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 487665100,
             "language": "TypeScript",
             "last_commit": "2022-10-25T08:29:19Z",
             "owner": "tdolsen",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523194529,
             "language": "TypeScript",
             "last_commit": "2022-09-23T05:45:15Z",
             "owner": "AceroM",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457231464,
             "language": "TypeScript",
             "last_commit": "2022-12-21T16:59:46Z",
             "owner": "geldata",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 485935633,
             "language": "TypeScript",
             "last_commit": "2022-04-28T00:44:19Z",
             "owner": "jacob-ebey",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 482365396,
             "language": "TypeScript",
             "last_commit": "2022-04-18T22:55:20Z",
             "owner": "colinhacks",
@@ -152,7 +157,7 @@
       "title": "Applications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 570886878,
             "language": "Shell",
             "last_commit": "2025-04-04T14:37:18Z",
             "owner": "Jarrodsz",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 689311484,
             "language": "TypeScript",
             "last_commit": "2023-10-09T06:39:28Z",
             "owner": "JitPackJoyride",
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 309720643,
             "language": "TypeScript",
             "last_commit": "2020-11-03T19:32:13Z",
             "owner": "geldata",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 594314474,
             "language": "Python",
             "last_commit": "2026-08-10T04:04:02Z",
             "owner": "0xsirsaif",
@@ -217,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 539040796,
             "language": "Go",
             "last_commit": "2023-03-04T15:43:44Z",
             "owner": "washed",
@@ -226,16 +236,12 @@
         }
       ],
       "title": "Integrations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Other languages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:29:43.966Z",
+    "last_updated": "2026-08-19T12:29:19.959Z",
     "original_repository": "geldata/awesome-gel",
+    "original_repository_id": 670723718,
     "original_repository_sha": "4e1991f0f892a2644fd9dcbbb6edb3d188524c65",
     "enhanced_repository": "enhansome/enhansome-gel",
     "enhanced_repository_description": null,
