@@ -57,7 +57,7 @@
             "archived": false,
             "id": 658010927,
             "language": "Rust",
-            "last_commit": "2026-08-16T16:28:24Z",
+            "last_commit": "2026-08-21T11:22:55Z",
             "owner": "hongquan",
             "repo": "QuanWeb",
             "stars": 41
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:30:40.894Z",
+    "last_updated": "2026-08-21T18:28:06.730Z",
     "original_repository": "geldata/awesome-gel",
     "original_repository_id": 670723718,
     "original_repository_sha": "4e1991f0f892a2644fd9dcbbb6edb3d188524c65",
