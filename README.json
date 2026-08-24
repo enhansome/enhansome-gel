@@ -236,10 +236,59 @@
         }
       ],
       "title": "Integrations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Create T3-EdgeDB App",
+          "description": "The T3 stack, but the database of choice is EdgeDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 537636619,
+            "language": "TypeScript",
+            "last_commit": "2022-12-30T16:36:32Z",
+            "owner": "PastelStoic",
+            "repo": "create-t3-edgedb-app",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "看無間道學EdgeDB",
+              "description": "A ten-part course inspired by Easy EdgeDB that follows the story in the 2002 Hong Kong action thriller film Infernal Affairs. Source code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 750233593,
+                "language": "EdgeQL",
+                "last_commit": "2024-08-06T08:55:09Z",
+                "owner": "jrycw",
+                "repo": "edgedb-ia",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chinese"
+        }
+      ],
+      "title": "Other languages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:20:39.981Z",
+    "last_updated": "2026-08-24T14:46:53.637Z",
     "original_repository": "geldata/awesome-gel",
     "original_repository_id": 670723718,
     "original_repository_sha": "4e1991f0f892a2644fd9dcbbb6edb3d188524c65",
