@@ -288,9 +288,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:41:40.544Z",
-    "original_repository": "geldata/awesome-gel",
-    "original_repository_id": 670723718,
+    "last_updated": "2026-08-27T11:41:11.012Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 670723718,
+      "language": null,
+      "last_commit": "2024-01-31T12:28:48Z",
+      "owner": "geldata",
+      "repo": "awesome-gel",
+      "stars": 51
+    },
     "original_repository_sha": "4e1991f0f892a2644fd9dcbbb6edb3d188524c65",
     "enhanced_repository": "enhansome/enhansome-gel",
     "enhanced_repository_description": null,
