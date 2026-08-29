@@ -16,7 +16,8 @@
             "owner": "pro7tech",
             "repo": "sveltekit-blog-app",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "geldata",
             "repo": "remix",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "jaykaycodes",
             "repo": "remix-chop-suey-stack",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "hongquan",
             "repo": "QuanWeb",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "pokedotdev",
             "repo": "twitter-clone",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "tdolsen",
             "repo": "edgedb-nestjs-example",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "AceroM",
             "repo": "khiphop-stack",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "geldata",
             "repo": "simpletodo",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "jacob-ebey",
             "repo": "remix-edgedb",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "colinhacks",
             "repo": "edgedb-nextjs-blog",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         }
       ],
       "title": "Applications"
@@ -172,7 +182,8 @@
             "owner": "Jarrodsz",
             "repo": "dokku-edgedb",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "JitPackJoyride",
             "repo": "lucia-adapter-edgedb",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "geldata",
             "repo": "edgedb-grafana-frontend",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "0xsirsaif",
             "repo": "fastapiusers-edgedb",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "washed",
             "repo": "edgedb-grafana-backend",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         }
       ],
       "title": "Integrations"
@@ -253,7 +268,8 @@
             "owner": "PastelStoic",
             "repo": "create-t3-edgedb-app",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T01:23:21.321Z"
         }
       ],
       "title": "Templates"
@@ -276,7 +292,8 @@
                 "owner": "jrycw",
                 "repo": "edgedb-ia",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:23:21.321Z"
             }
           ],
           "description": null,
@@ -288,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:59:40.146Z",
+    "last_updated": "2026-08-29T01:23:21.321Z",
     "original_repository_info": {
       "archived": false,
       "id": 670723718,
