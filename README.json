@@ -10,12 +10,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🚀 SvelteKit Blog App is a free and open-source simple fullstack blog app built with SvelteKit, Tailwind CSS, and EdgeDB",
+            "homepage": null,
             "id": 610760471,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-28T06:26:52Z",
+            "open_issues": 2,
             "owner": "pro7tech",
             "repo": "sveltekit-blog-app",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "blog",
+              "database",
+              "edgedb",
+              "fullstack-javascript",
+              "html",
+              "javascript",
+              "mit-license",
+              "open-source",
+              "svelte",
+              "sveltekit",
+              "tailwind",
+              "tailwind-css",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         },
@@ -26,12 +45,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Remix stack for EdgeDB-backed applications",
+            "homepage": null,
             "id": 482066451,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-08-03T03:32:00Z",
+            "open_issues": 0,
             "owner": "geldata",
             "repo": "remix",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "edgedb",
+              "remix-stack"
+            ]
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         },
@@ -42,12 +69,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remix+EdgeDB+Tailwind+Fly.io=🖤",
+            "homepage": null,
             "id": 488832873,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-24T08:07:55Z",
+            "open_issues": 0,
             "owner": "jaykaycodes",
             "repo": "remix-chop-suey-stack",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "edgedb",
+              "flyio",
+              "react",
+              "remix",
+              "remix-stack",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         },
@@ -58,12 +97,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal website, written in Rust, using Gel (formerly EdgeDB), both server-side rendering and SPA",
+            "homepage": "https://quan.hoabinh.vn",
             "id": 658010927,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-23T18:20:27Z",
+            "open_issues": 0,
             "owner": "hongquan",
             "repo": "QuanWeb",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "axum",
+              "chrono",
+              "edgedb",
+              "gel",
+              "gleam",
+              "lustre",
+              "minijinja",
+              "rust",
+              "serde-json"
+            ]
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         },
@@ -74,12 +128,32 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Twitter Clone made with Remix, EdgeDB & UnoCSS. (Developing) ",
+            "homepage": "https://twitter-clone.poke.dev",
             "id": 516703341,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-11-06T17:04:54Z",
+            "open_issues": 0,
             "owner": "pokedotdev",
             "repo": "twitter-clone",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "edgedb",
+              "pnpm",
+              "react",
+              "reactjs",
+              "remix",
+              "remix-run",
+              "social",
+              "social-app",
+              "twitter",
+              "twitter-clone",
+              "unocss",
+              "vite",
+              "vitejs",
+              "x-clone"
+            ]
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         },
@@ -90,12 +164,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple example of configuring a NestJS application to use EdgeDB (and a bespoke GraphQL API).",
+            "homepage": null,
             "id": 487665100,
             "language": "TypeScript",
+            "license": "Unlicense",
             "last_commit": "2022-10-25T08:29:19Z",
+            "open_issues": 1,
             "owner": "tdolsen",
             "repo": "edgedb-nestjs-example",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "docker",
+              "edgedb",
+              "edgeql",
+              "graphql",
+              "nestjs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         },
@@ -106,12 +192,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://khiphop-stack.netlify.app",
             "id": 523194529,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-09-23T05:45:15Z",
+            "open_issues": 1,
             "owner": "AceroM",
             "repo": "khiphop-stack",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "clerk",
+              "edgedb",
+              "netlify",
+              "reactjs",
+              "remix",
+              "remix-stack",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         },
@@ -122,12 +222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A preposterously simple todo app powered by EdgeDB",
+            "homepage": null,
             "id": 457231464,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-12-21T16:59:46Z",
+            "open_issues": 0,
             "owner": "geldata",
             "repo": "simpletodo",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         },
@@ -138,12 +243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple app demoing Remix + EdgeDB",
+            "homepage": null,
             "id": 485935633,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-04-28T00:44:19Z",
+            "open_issues": 0,
             "owner": "jacob-ebey",
             "repo": "remix-edgedb",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         },
@@ -154,12 +264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "edgedb-nextjs-blog.vercel.app",
             "id": 482365396,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-04-18T22:55:20Z",
+            "open_issues": 0,
             "owner": "colinhacks",
             "repo": "edgedb-nextjs-blog",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         }
@@ -176,12 +291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an edgedb plugin for dokku ",
+            "homepage": null,
             "id": 570886878,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-04-04T14:37:18Z",
+            "open_issues": 3,
             "owner": "Jarrodsz",
             "repo": "dokku-edgedb",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         },
@@ -192,12 +312,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lucia adapter for EdgeDB",
+            "homepage": "https://www.npmjs.com/package/@jitpackjoyride/lucia-adapter-edgedb",
             "id": 689311484,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-10-09T06:39:28Z",
+            "open_issues": 1,
             "owner": "JitPackJoyride",
             "repo": "lucia-adapter-edgedb",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "adapter",
+              "edgedb",
+              "lucia",
+              "lucia-auth"
+            ]
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         },
@@ -208,12 +338,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A frontend plugin for Grafana that fetches data from an HTTP endpoint responding to EdgeQL queries",
+            "homepage": null,
             "id": 309720643,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-11-03T19:32:13Z",
+            "open_issues": 0,
             "owner": "geldata",
             "repo": "edgedb-grafana-frontend",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         },
@@ -224,12 +359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Edgedb adapter for fastapi-users",
+            "homepage": null,
             "id": 594314474,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T04:04:02Z",
+            "open_issues": 10,
             "owner": "0xsirsaif",
             "repo": "fastapiusers-edgedb",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         },
@@ -240,12 +380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A grafana backend data source plugin to connect to EdgeDB",
+            "homepage": null,
             "id": 539040796,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-04T15:43:44Z",
+            "open_issues": 3,
             "owner": "washed",
             "repo": "edgedb-grafana-backend",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         }
@@ -262,12 +407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 537636619,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-12-30T16:36:32Z",
+            "open_issues": 0,
             "owner": "PastelStoic",
             "repo": "create-t3-edgedb-app",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:23:21.321Z"
         }
@@ -286,12 +436,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EdgeDB learning material in Traditional Chinese.",
+                "homepage": "https://jrycw.github.io/edgedb-ia/",
                 "id": 750233593,
                 "language": "EdgeQL",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-06T08:55:09Z",
+                "open_issues": 0,
                 "owner": "jrycw",
                 "repo": "edgedb-ia",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "database",
+                  "edgedb"
+                ]
               },
               "first_seen": "2026-08-29T01:23:21.321Z"
             }
@@ -305,15 +463,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:23:21.321Z",
+    "last_updated": "2026-08-29T05:06:40.177Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources related to EdgeDB.",
+      "homepage": "https://edgedb.com",
       "id": 670723718,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-01-31T12:28:48Z",
+      "open_issues": 0,
       "owner": "geldata",
       "repo": "awesome-gel",
-      "stars": 51
+      "stars": 51,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "edgedb"
+      ]
     },
     "original_repository_sha": "4e1991f0f892a2644fd9dcbbb6edb3d188524c65",
     "enhanced_repository": "enhansome/enhansome-gel",
