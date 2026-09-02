@@ -35,7 +35,7 @@ Want to contribute to the list? Follow the [contributing guide](/CONTRIBUTING.md
 * [QuanWeb](https://github.com/hongquan/QuanWeb) ⭐ 41 | 🐛 0 | 🌐 Rust | 📅 2026-08-30 - A production personal website with Rust (Axum framework) + EdgeDB at the backend, and various tech for frontend.
 * [Twitter Clone](https://github.com/pokedotdev/twitter-clone) ⚠️ Archived - A Twitter clone built using Remix, UnoCSS and EdgeDB.
 * [EdgeDB + NestJS](https://github.com/tdolsen/edgedb-nestjs-example) ⭐ 16 | 🐛 1 | 🌐 TypeScript | 📅 2022-10-25 - A NestJS application that uses EdgeDB and exposes a GraphQL API.
-* [Remix K-Hip Hop Stack](https://github.com/AceroM/khiphop-stack) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2022-09-23 - An application built with Remix & EdgeDB and deployed using Netlify.
+* [Remix K-Hip Hop Stack](https://github.com/AceroM/khiphop-stack) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2022-09-23 - An application built with Remix & EdgeDB and deployed using Netlify.
 * [EdgeDB TodoMVC](https://github.com/edgedb/simpletodo) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2022-12-21 - A classic todo application that is powered by EdgeDB.
 * [Remix + EdgeDB](https://github.com/jacob-ebey/remix-edgedb) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2022-04-28 - A simple Remix application that is powered by EdgeDB.
 * [EdgeDB NextJS Blog](https://github.com/colinhacks/edgedb-nextjs-blog) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2022-04-18 - A NextJS blog application built with EdgeDB and React.
@@ -89,4 +89,4 @@ Want to contribute to the list? Follow the [contributing guide](/CONTRIBUTING.md
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
