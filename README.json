@@ -102,7 +102,7 @@
             "id": 658010927,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-18T13:02:20Z",
+            "last_commit": "2026-09-25T06:05:14Z",
             "open_issues": 0,
             "owner": "hongquan",
             "repo": "QuanWeb",
@@ -463,7 +463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:02:30.465Z",
+    "last_updated": "2026-09-25T20:59:47.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to EdgeDB.",
