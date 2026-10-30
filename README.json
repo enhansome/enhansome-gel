@@ -54,7 +54,7 @@
             "open_issues": 0,
             "owner": "geldata",
             "repo": "remix",
-            "stars": 79,
+            "stars": 78,
             "topics": [
               "edgedb",
               "remix-stack"
@@ -78,7 +78,7 @@
             "open_issues": 0,
             "owner": "jaykaycodes",
             "repo": "remix-chop-suey-stack",
-            "stars": 71,
+            "stars": 70,
             "topics": [
               "edgedb",
               "flyio",
@@ -463,7 +463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T22:20:10.107Z",
+    "last_updated": "2026-10-30T21:52:31.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to EdgeDB.",
